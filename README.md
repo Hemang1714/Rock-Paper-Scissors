@@ -14,7 +14,7 @@ This JavaScript-based Rock, Paper, Scissors game allows you to play against the 
 
 ## Screenshots
 
-![Game Screenshot](screenshots/game_screenshot.png)
+![logo](https://github.com/Hemang1714/Rock-Paper-Scissors/blob/25f78973d459f97a1278e8302f5f0cf9e6629aa6/Rock-Paper-Scissor.jpeg)
 
 ## Installation
 
